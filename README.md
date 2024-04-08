@@ -1,9 +1,12 @@
 # kidney_disease_classification
-6220
+
+## INSE6220
+
+## To Insall 
 
 ### For Silicone Mac Book
 ```bash
-* brew install cmake libomp
+brew install cmake libomp
 ```
 
 ### To Run
