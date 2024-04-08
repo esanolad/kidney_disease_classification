@@ -1,8 +1,8 @@
 # kidney_disease_classification
 
-## INSE6220
+### INSE6220
 
-## To Insall 
+## Installation
 
 ### For Silicone Mac Book
 ```bash
